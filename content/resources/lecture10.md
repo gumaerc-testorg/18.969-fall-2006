@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource contains lecture notes on integrability, dirac maps, and
   manifolds with courant structure.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-969-topics-in-geometry-dirac-geometry-fall-2006/11805680339d90869c1789d0fd0612a8_lecture10.pdf
+file: /media/courses/18-969-topics-in-geometry-dirac-geometry-fall-2006/11805680339d90869c1789d0fd0612a8_lecture10.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture10.pdf
 uid: 11805680-339d-9086-9c17-89d0fd0612a8

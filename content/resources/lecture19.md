@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource contains lecture notes on generalized Kahler geometry and
   Hodge theory on generalized Kahler manifolds.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-969-topics-in-geometry-dirac-geometry-fall-2006/2a75a39e9f9757f9052eb710c7d8c9d1_lecture19.pdf
+file: /media/courses/18-969-topics-in-geometry-dirac-geometry-fall-2006/2a75a39e9f9757f9052eb710c7d8c9d1_lecture19.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture19.pdf
 uid: 2a75a39e-9f97-57f9-052e-b710c7d8c9d1

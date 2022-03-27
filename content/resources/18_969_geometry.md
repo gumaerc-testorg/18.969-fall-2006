@@ -13,6 +13,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 7985c9dc-f35f-be0e-12ee-a216973eddd5
 resourcetype: Document
 title: 18_969_geometry.pdf
 uid: 84ec6aea-9629-b385-337e-398d35974294

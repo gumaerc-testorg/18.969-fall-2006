@@ -6,6 +6,7 @@ file: /courses/18-969-topics-in-geometry-dirac-geometry-fall-2006/d2c06605eb4594
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: problems4.pdf
 uid: d2c06605-eb45-94fe-0181-645dce88b32d
 ---
 This file is a resource which contains problems on topics like Dirac structures, Lie algebroid, Mukai pairing, and Canonical Poisson Structure.
-

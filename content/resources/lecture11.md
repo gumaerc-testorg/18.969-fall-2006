@@ -6,6 +6,7 @@ file: /courses/18-969-topics-in-geometry-dirac-geometry-fall-2006/ed3fff48d66995
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture11.pdf
 uid: ed3fff48-d669-9559-33de-5444924b9682
 ---
 This resource contains lecture notes on integrability and spinors, lie bialgebroids and deformations.
-

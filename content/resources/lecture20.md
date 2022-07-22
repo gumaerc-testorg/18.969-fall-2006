@@ -6,6 +6,7 @@ file: /courses/18-969-topics-in-geometry-dirac-geometry-fall-2006/3d22c970ece7be
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture20.pdf
 uid: 3d22c970-ece7-be51-20c9-01fa974c0bbd
 ---
 This resource contains lecture notes on generalized complex branes of rank 1.
-

@@ -5,6 +5,7 @@ file: /courses/18-969-topics-in-geometry-dirac-geometry-fall-2006/3a109fb8136c63
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture9.pdf
 uid: 3a109fb8-136c-6354-f515-1cae8ec6a236
 ---
 This resource contains lecture notes on bilinear forms on groups.
-

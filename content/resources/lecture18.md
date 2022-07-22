@@ -5,6 +5,7 @@ file: /courses/18-969-topics-in-geometry-dirac-geometry-fall-2006/295e4a482856b1
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture18.pdf
 uid: 295e4a48-2856-b1ba-2417-ff0991aaf329
 ---
 This resource contains lecture notes on generalized Kahler geometry.
-

@@ -6,6 +6,7 @@ file: /courses/18-969-topics-in-geometry-dirac-geometry-fall-2006/1e9cfc0f337d5b
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture8.pdf
 uid: 1e9cfc0f-337d-5be5-5c06-97822b73d507
 ---
 This resource contains lecture notes on Dirac structures and geometry of Lie groups.
-

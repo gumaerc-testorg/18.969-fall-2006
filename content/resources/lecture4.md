@@ -6,6 +6,7 @@ file: /courses/18-969-topics-in-geometry-dirac-geometry-fall-2006/be64b58d0e22a3
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture4.pdf
 uid: be64b58d-0e22-a39c-ca5c-715138703351
 ---
 This resource contains lecture notes on geometry of V+V*, linear Dirac structures, and generalized matrices.
-

@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains lecture notes on the generalized Hodge star, and
   spinors for TM+T*M and the Courant algebroid.
 file: /courses/18-969-topics-in-geometry-dirac-geometry-fall-2006/1513df1aab447a1f9f73642b2fd3b515_lecture6.pdf
+file_size: 304549
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

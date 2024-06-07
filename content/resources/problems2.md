@@ -4,6 +4,7 @@ description: This file is a resource which contains problems related to topics l
   Nijenhuis tensor, decomposition, holomorphic structure, g-orthonormal basis, Mukai
   pairing, and Courant algebroid.
 file: /courses/18-969-topics-in-geometry-dirac-geometry-fall-2006/97cab07e3807c55cf05696bc5111c1e9_problems2.pdf
+file_size: 98261
 file_type: application/pdf
 learning_resource_types:
 - Assignments

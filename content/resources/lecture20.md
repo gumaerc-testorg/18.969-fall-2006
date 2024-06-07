@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains lecture notes on generalized complex branes of
   rank 1.
 file: /courses/18-969-topics-in-geometry-dirac-geometry-fall-2006/3d22c970ece7be5120c901fa974c0bbd_lecture20.pdf
+file_size: 199385
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

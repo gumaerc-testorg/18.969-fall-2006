@@ -4,6 +4,7 @@ description: This resource contains lecture notes on generalized complex structu
   and topological obstructions, intermediate cases, spinorial description, and introduction
   to Hermitian geometry.
 file: /courses/18-969-topics-in-geometry-dirac-geometry-fall-2006/04c0907b0a6569c3b353dd6cdcf663d6_lecture12.pdf
+file_size: 470947
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

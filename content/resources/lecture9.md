@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains lecture notes on bilinear forms on groups.
 file: /courses/18-969-topics-in-geometry-dirac-geometry-fall-2006/3a109fb8136c6354f5151cae8ec6a236_lecture9.pdf
+file_size: 197688
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -3,6 +3,7 @@ content_type: resource
 description: This file is a resource which contains problems on topics like Dolbeault
   operator, Kahler Structure, and holomorphic Poisson structure.
 file: /courses/18-969-topics-in-geometry-dirac-geometry-fall-2006/e3df20d008a8a4b1c70886686d8fab74_problems5.pdf
+file_size: 71274
 file_type: application/pdf
 learning_resource_types:
 - Assignments

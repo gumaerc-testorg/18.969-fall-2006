@@ -2,7 +2,7 @@
 content_type: resource
 description: This file is a resource which contains problems on topics like Dirac
   structures, Lie algebroid, Mukai pairing, and Canonical Poisson Structure.
-file: /courses/18-969-topics-in-geometry-dirac-geometry-fall-2006/d2c06605eb4594fe0181645dce88b32d_problems4.pdf
+file: /ol-ocw-studio-app/courses/18-969-topics-in-geometry-dirac-geometry-fall-2006/d2c06605eb4594fe0181645dce88b32d_problems4.pdf
 file_size: 91182
 file_type: application/pdf
 learning_resource_types:

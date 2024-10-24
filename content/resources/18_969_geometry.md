@@ -6,7 +6,7 @@ description: 'This resource contains the complete set of lecture notes for the c
   The course introduces generalized geometry, with a special emphasis on Dirac geometry,
   as developed by Courant, Weinstein, and Severa, as well as generalized complex geometry,
   as introduced by Hitchin.'
-file: /courses/18-969-topics-in-geometry-dirac-geometry-fall-2006/84ec6aea9629b385337e398d35974294_18_969_geometry.pdf
+file: /ol-ocw-studio-app/courses/18-969-topics-in-geometry-dirac-geometry-fall-2006/84ec6aea9629b385337e398d35974294_18_969_geometry.pdf
 file_size: 1263421
 file_type: application/pdf
 learning_resource_types:

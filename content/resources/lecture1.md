@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains lecture notes on smooth manifolds, geometry of
   foliations, and symplectic structure.
-file: /ol-ocw-studio-app/courses/18-969-topics-in-geometry-dirac-geometry-fall-2006/0977bd35075df6dbd9ab50071f0c86c3_lecture1.pdf
+file: /courses/18-969-topics-in-geometry-dirac-geometry-fall-2006/0977bd35075df6dbd9ab50071f0c86c3_lecture1.pdf
 file_size: 211346
 file_type: application/pdf
 learning_resource_types:

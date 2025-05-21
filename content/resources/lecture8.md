@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains lecture notes on Dirac structures and geometry
   of Lie groups.
-file: /ol-ocw-studio-app/courses/18-969-topics-in-geometry-dirac-geometry-fall-2006/1e9cfc0f337d5be55c0697822b73d507_lecture8.pdf
+file: /courses/18-969-topics-in-geometry-dirac-geometry-fall-2006/1e9cfc0f337d5be55c0697822b73d507_lecture8.pdf
 file_size: 713646
 file_type: application/pdf
 learning_resource_types:

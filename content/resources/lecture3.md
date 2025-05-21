@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains lecture notes on almost complex structure, Hermitian
   structure, integrability of J, forms on a complex manifold, and Dolbeault cohomology.
-file: /ol-ocw-studio-app/courses/18-969-topics-in-geometry-dirac-geometry-fall-2006/415e1bac8283b9c8ca9ec36ae80c85c5_lecture3.pdf
+file: /courses/18-969-topics-in-geometry-dirac-geometry-fall-2006/415e1bac8283b9c8ca9ec36ae80c85c5_lecture3.pdf
 file_size: 311117
 file_type: application/pdf
 learning_resource_types:

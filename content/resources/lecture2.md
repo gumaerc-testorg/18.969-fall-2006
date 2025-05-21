@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains lecture notes on symplectic manifolds and Poisson
   geometry, with comments on the previous lecture.
-file: /ol-ocw-studio-app/courses/18-969-topics-in-geometry-dirac-geometry-fall-2006/84d9f75b04ceafb550362e48143c4603_lecture2.pdf
+file: /courses/18-969-topics-in-geometry-dirac-geometry-fall-2006/84d9f75b04ceafb550362e48143c4603_lecture2.pdf
 file_size: 371388
 file_type: application/pdf
 learning_resource_types:

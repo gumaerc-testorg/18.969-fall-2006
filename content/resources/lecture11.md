@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains lecture notes on integrability and spinors, lie
   bialgebroids and deformations.
-file: /ol-ocw-studio-app/courses/18-969-topics-in-geometry-dirac-geometry-fall-2006/ed3fff48d669955933de5444924b9682_lecture11.pdf
+file: /courses/18-969-topics-in-geometry-dirac-geometry-fall-2006/ed3fff48d669955933de5444924b9682_lecture11.pdf
 file_size: 194030
 file_type: application/pdf
 learning_resource_types:

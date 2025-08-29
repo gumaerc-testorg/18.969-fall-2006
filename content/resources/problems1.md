@@ -3,7 +3,7 @@ content_type: resource
 description: This file is a resource which contains problems related to topics like
   Rham complex, Koszul complex, Elliptic complexes, lie derivative, Poincare lemma,
   Poisson cohomology complex, and Hamiltonian flow.
-file: /courses/18-969-topics-in-geometry-dirac-geometry-fall-2006/9c60ed40b1b5090870f37958518288cb_problems1.pdf
+file: /ol-ocw-studio-app/courses/18-969-topics-in-geometry-dirac-geometry-fall-2006/9c60ed40b1b5090870f37958518288cb_problems1.pdf
 file_size: 124780
 file_type: application/pdf
 learning_resource_types:

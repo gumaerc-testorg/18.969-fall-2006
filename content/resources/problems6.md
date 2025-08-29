@@ -3,7 +3,7 @@ content_type: resource
 description: This file is a resource which contains problems on topics like epimorphism,
   monomorphism, isomorphism, orthogonal category, dualisation, nondegenerate pairing,
   and Buscher rules.
-file: /courses/18-969-topics-in-geometry-dirac-geometry-fall-2006/f58237c904b6915de9fca0b59309fbb3_problems6.pdf
+file: /ol-ocw-studio-app/courses/18-969-topics-in-geometry-dirac-geometry-fall-2006/f58237c904b6915de9fca0b59309fbb3_problems6.pdf
 file_size: 71249
 file_type: application/pdf
 learning_resource_types:

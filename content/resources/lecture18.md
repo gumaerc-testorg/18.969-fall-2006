@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains lecture notes on generalized Kahler geometry.
-file: /courses/18-969-topics-in-geometry-dirac-geometry-fall-2006/295e4a482856b1ba2417ff0991aaf329_lecture18.pdf
+file: /ol-ocw-studio-app/courses/18-969-topics-in-geometry-dirac-geometry-fall-2006/295e4a482856b1ba2417ff0991aaf329_lecture18.pdf
 file_size: 222865
 file_type: application/pdf
 learning_resource_types:

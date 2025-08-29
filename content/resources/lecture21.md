@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains lecture notes on linear algebra and T-duality.
-file: /courses/18-969-topics-in-geometry-dirac-geometry-fall-2006/abd357a070e7993bb9806e0242364cb1_lecture21.pdf
+file: /ol-ocw-studio-app/courses/18-969-topics-in-geometry-dirac-geometry-fall-2006/abd357a070e7993bb9806e0242364cb1_lecture21.pdf
 file_size: 378611
 file_type: application/pdf
 learning_resource_types:

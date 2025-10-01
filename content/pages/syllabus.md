@@ -46,19 +46,19 @@ Students are instead referred to the following articles:
 
 Courant, T. "Dirac manifolds." *Trans Amer Math Soc*, no. 319 (1990): 631-661.
 
-Grana, M., R. Minasian, M. Petrini, and A. Tomasiello. [*Generalized structures and N=1 vacua*](http://arxiv.org/abs/hep-th/0505212).
+Grana, M., R. Minasian, M. Petrini, and A. Tomasiello. {{% resource_link "073fca13-14f5-41c4-b02c-734fc80e0519" "*Generalized structures and N=1 vacua*" %}}.
 
-Gualtieri, M. "[Generalized complex geometry](http://arxiv.org/abs/math.dg/0401221)." *Oxford D Phil thesis*, math.
+Gualtieri, M. "{{% resource_link "aaa84436-e6f5-447c-a2e0-0ddd168c5887" "Generalized complex geometry" %}}." *Oxford D Phil thesis*, math.
 
-Hitchin, N. "[Generalized Calabi-Yau manifolds](http://arxiv.org/abs/math.dg/0209099)." *Q J Math* 54 (2003): 281-308.
+Hitchin, N. "{{% resource_link "cf27ea23-01e0-409d-a402-7ce55056f3e0" "Generalized Calabi-Yau manifolds" %}}." *Q J Math* 54 (2003): 281-308.
 
-Kapustin, A., and Y. Li. [*Topological sigma-models with H-flux and twisted generalized complex manifolds*](http://arxiv.org/abs/hep-th/0407249).
+Kapustin, A., and Y. Li. {{% resource_link "7d9e9614-1805-4604-a8ca-9a0b7c46355f" "*Topological sigma-models with H-flux and twisted generalized complex manifolds*" %}}.
 
-Lindstrom, U., M. Rocek, R. von Unge, and M. Zabzine. [*Generalized Kahler manifolds and off-shell supersymmetry*](http://arxiv.org/abs/hep-th/0512164).
+Lindstrom, U., M. Rocek, R. von Unge, and M. Zabzine. {{% resource_link "b3fc3443-9640-4199-a313-ba02664d4d3e" "*Generalized Kahler manifolds and off-shell supersymmetry*" %}}.
 
-Severa, P., and A. Weinstein. "[Poisson geometry with a 3-form background](http://arxiv.org/abs/math.SG/0107133)." *Prog Theo Phys Suppl* 144 (2001): 145-154.
+Severa, P., and A. Weinstein. "{{% resource_link "48308b54-1e16-422c-a51b-5ae53566e9a9" "Poisson geometry with a 3-form background" %}}." *Prog Theo Phys Suppl* 144 (2001): 145-154.
 
-Zucchini, R. [*Generalized complex geometry, generalized branes and the Hitchin sigma model*](http://arxiv.org/abs/hep-th/0501062).
+Zucchini, R. {{% resource_link "757a1543-eb14-44ba-bd2a-5811177b3d48" "*Generalized complex geometry, generalized branes and the Hitchin sigma model*" %}}.
 
 ## Problem Sets
 
